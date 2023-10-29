@@ -17,3 +17,4 @@ javascriptを用いて作成しました。
 setIntervalの使い方に苦労しました。Intervalを置く箇所によって、Intervalが重複して発火したため、前回保存したInteravalの処理がIntervalの処理が消えないという問題に悩まされました。
 
 ## アプリケーションURL
+https://m0rio0818.github.io/Clicker-Empire-game/
