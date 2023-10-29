@@ -1,0 +1,92 @@
+body {
+    font-family: Futura!important;
+}
+
+p{
+    margin: 0!important;
+}
+
+.rem1p2{
+    font-size: 1.2rem;
+}
+
+.rem1p3{
+    font-size: 1.3rem;
+}
+
+.rem1p5{
+    font-size: 1.5rem;
+}
+
+.bg-navy{
+    background-color: #3c5279;
+}
+
+.cardStyle{
+    color: white;
+    background-color: #3c5279;
+    padding: 0.3em 0.4em;
+    text-align: center;
+}
+
+.userCard{
+    color: white;
+    background-color: #3c5279;
+    text-align: center;
+    padding: 0.4em 0;
+}
+
+.itemInfo{
+    color: white;
+    background-color: #3c5279;
+}
+
+.itemInfo:hover{
+    border:2px solid lightblue;
+}
+
+.imgStyle{
+    max-width: 100%;
+    height: auto;
+}
+
+.burgerImg{
+    width: 80%;
+}
+
+.hover{
+    cursor: pointer;
+}
+
+.burgerImg:hover{
+    opacity: 0.5;
+}
+
+.imgFluid{
+    height: 100%;
+    width: auto;
+}
+
+.eleBox{
+    height: 70vh;
+    overflow: scroll;
+}
+
+.imgSet{
+    width: 80%;
+    height: auto;
+}
+
+.hover:hover{
+  opacity: 0.7;  
+}
+
+.selectItem{
+    color: white;
+    background-color: #3c5279;
+}
+
+
+.h100{
+    height: 100%;
+}
